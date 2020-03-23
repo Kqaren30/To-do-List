@@ -1,0 +1,32 @@
+* {
+
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+}
+
+.App{
+max-width: 800px;
+margin-top: 10px;
+margin-bottom: 10px;
+background-color: #EBF5FF;
+margin: auto;
+}
+
+.cuerpo{
+  background: #9796f0;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fbc7d4, #9796f0);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.añadir{
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.eliminar{
+  margin-top: 10px;
+  margin-left: 10px;
+}
